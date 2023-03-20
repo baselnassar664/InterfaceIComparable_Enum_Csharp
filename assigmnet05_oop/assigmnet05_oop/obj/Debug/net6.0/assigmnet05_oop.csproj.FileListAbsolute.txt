@@ -1,0 +1,15 @@
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\bin\Debug\net6.0\assigmnet05_oop.exe
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\bin\Debug\net6.0\assigmnet05_oop.deps.json
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\bin\Debug\net6.0\assigmnet05_oop.runtimeconfig.json
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\bin\Debug\net6.0\assigmnet05_oop.dll
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\bin\Debug\net6.0\assigmnet05_oop.pdb
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.csproj.AssemblyReference.cache
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.AssemblyInfoInputs.cache
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.AssemblyInfo.cs
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.csproj.CoreCompileInputs.cache
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.dll
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\refint\assigmnet05_oop.dll
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.pdb
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\assigmnet05_oop.genruntimeconfig.cache
+E:\دبلومة asp مصر\احمد خالد\C#\OOP\Session 02\Assignment\assigmnet05_oop\assigmnet05_oop\obj\Debug\net6.0\ref\assigmnet05_oop.dll
